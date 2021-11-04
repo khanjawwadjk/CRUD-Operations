@@ -1,0 +1,31 @@
+.card1{
+    padding: 10px;
+    margin: auto;
+    height: 700px;
+    width: 900px;
+    background-color: rgb(159, 189, 179);
+}
+
+.col1{
+    margin: 10px;
+}
+
+.add-btn{
+    margin-top: 10px;;
+    padding: 0.8em;
+    margin-left: 30%;
+}
+
+.tab1 tr th{
+    border-bottom: 1pt solid slategrey;
+    padding: 2rem;
+    text-align: left;
+}
+.tab1 tr td{
+    border-bottom: 1pt solid slategrey;
+    text-align: center;
+}
+
+.btn2{
+    margin: 10px;
+}
